@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/gunnarforsgren/AndroidStudioProjects/VideoDemo001/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <color name="trans">#BB333333</color>
+    <!-- From: file:/Users/gunnarforsgren/AndroidStudioProjects/VideoDemo001/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="MyName">My Name</string>
+    <string name="Name">name</string>
+    <string name="VideoButtonStart">Start</string>
+    <string name="VideoButtonStop">Stop</string>
+    <string name="app_name">Video Demo 001</string>
+</resources>
